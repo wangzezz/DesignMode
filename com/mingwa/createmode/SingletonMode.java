@@ -1,4 +1,4 @@
-package com.huawei.omsys.common.designModel;
+package com.mingwa.createmode;
 
 public class SingletonMode {
 
